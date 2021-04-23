@@ -32,7 +32,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-             const HeaderWidget(text: "hello world"),
+             const HeaderWidget(text: "hello world!"),
             //Text("Hello world"),
             Text(
               '$_counter',
